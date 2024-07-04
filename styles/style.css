@@ -45,6 +45,8 @@ body {
 }
 #banner {
 	float: right;
+	width: 793px;
+	height: 151px;
 }
 .menubar {
 	width: 1000px;
