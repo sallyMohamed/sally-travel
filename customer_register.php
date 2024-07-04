@@ -46,7 +46,7 @@ if (isset($_POST['register'])) {
 
 <head>
     <meta charset="UTF-8">
-    <title>Travel Bird : Register</title>
+    <title>Sally Travel : Register</title>
     <link rel="stylesheet" href="styles/style.css" media="all">
     <style type="text/css">
         #fixm {
@@ -113,19 +113,19 @@ if (isset($_POST['register'])) {
                             </td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Name:</td>
+                            <td align="right" id="fixm">Your Name*:</td>
                             <td><input id="fixi" type="text" name="c_name" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Email:</td>
+                            <td align="right" id="fixm">Your Email*:</td>
                             <td><input type="email" name="c_email" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Password:</td>
+                            <td align="right" id="fixm">Your Password*:</td>
                             <td><input id="fixi" type="password" name="c_pass" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Passport ID:</td>
+                            <td align="right" id="fixm">Your Passport ID*:</td>
                             <td><input type="text" name="c_passport" required=""></td>
                         </tr>
                         <tr>
@@ -133,7 +133,7 @@ if (isset($_POST['register'])) {
                             <td><input id="fixi" type="file" name="c_image" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Country:</td>
+                            <td align="right" id="fixm">Your Country*:</td>
                             <td>
                                 <select name="c_country" required="">Select a
                                     <option>Bangladesh</option>
@@ -148,7 +148,10 @@ if (isset($_POST['register'])) {
                                     <option>France</option>
                                     <option>Switzerland</option>
                                     <option>Croatia</option>
-                                    <option>Argentina</option>
+                                    <option>Egypt</option>
+                                    <option>Kuwit</option>
+                                    <option>Saudi Arabia</option>
+                                    <option>Qatar</option>
                                 </select>
                             </td>
                         </tr>
