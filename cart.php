@@ -96,7 +96,7 @@ include("functions/functions.php");
                                             $update_qty = "UPDATE cart SET qty='$qty'";
                                             $run_qty = mysqli_query($con, $update_qty);
                                             $_SESSION['qty'] = $qty;
-                                            $total = ($qty * $total);
+                                            $total = ($qty . $total);
                                         }
                                         ?>
                                         <td>
