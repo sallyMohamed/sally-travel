@@ -53,12 +53,7 @@
         <!--Navbar ends here-->
         <!--Content starts here-->
         <div class="content_wrapper">
-            <div class="sidebar">
-                <div id="sidebar_title"><b>Contact Us</b></div>
-                <br><br><br><br><br><br><br>
-                <div id="sidebar_title"><b>24/7 Hotline</b></div>
-                <div id="sidebar_title"><b>Dial: 16505</b></div>
-            </div>
+            
             <div id="content_area">
                 <div id="packages_box">
                     <br>
