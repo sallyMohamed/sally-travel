@@ -114,7 +114,7 @@ include("functions/functions.php");
                                 </td>
                             </tr>
                             <tr align="center">
-                                <td colspan="2"><input type="submit" name="update_cart" value="Update Cart"></td>
+                                <td colspan="2"><input type="submit" name="update_cart" value="REMOVE FROM Cart"></td>
                                 <td><input type="submit" name="continue" value="Continue Shopping"></td>
                                 <td>
                                     <button><a href="checkout.php"
