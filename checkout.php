@@ -6,7 +6,7 @@ include("functions/functions.php");
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Travel Bird : Checkout</title>
+    <title>Sally Travel  : Checkout</title>
     <link rel="stylesheet" href="styles/style.css" media="all">
 </head>
 <body>
