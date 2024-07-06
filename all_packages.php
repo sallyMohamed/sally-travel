@@ -5,7 +5,7 @@ include("functions/functions.php");
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Travel Bird : All Packages</title>
+    <title>Sally Travel: All Packages</title>
     <link rel="stylesheet" href="styles/style.css" media="all">
 </head>
 <body>
