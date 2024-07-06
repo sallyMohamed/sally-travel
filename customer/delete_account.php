@@ -2,7 +2,7 @@
 
 <form action="" method="post">
     <input type="submit" name="yes" value="Yes, I want">
-    <input type="submit" name="no" value="No, I was joking">
+    <input type="submit" name="no" value="No, I don`t">
 </form>
 
 <?php
@@ -19,7 +19,7 @@ if (isset($_POST['yes'])) {
 }
 
 if (isset($_POST['no'])) {
-    echo "<script>alert('Do not joke again!')</script>";
+    echo "<script>alert('okay , welcome to our website')</script>";
     echo "<script>window.open('my_account.php','_self')</script>";
 }
 ?>
