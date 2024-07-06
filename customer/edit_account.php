@@ -64,22 +64,24 @@
             <tr>
                 <td align="right">Country:</td>
                 <td>
-                    <select name="c_country" disabled="">
-                        <option><?php echo $country; ?></option>
-                        <option>Bangladesh</option>
-                        <option>India</option>
-                        <option>Japan</option>
-                        <option>China</option>
-                        <option>Russia</option>
-                        <option>Portugal</option>
-                        <option>England</option>
-                        <option>Brazil</option>
-                        <option>Spain</option>
-                        <option>France</option>
-                        <option>Switzerland</option>
-                        <option>Croatia</option>
-                        <option>Argentina</option>
-                    </select>
+                <select name="c_country" required="">Select a
+                                    <option>Egypt</option>
+                                    <option>Kuwit</option>
+                                    <option>Qatar</option>
+                                    <option>Saudi Arabia</option>
+                                    <option>Egypt</option>
+                                    <option>Switzerland</option>
+                                    <option>France</option>
+                                    <option>Brazil</option>
+                                    <option>Spain</option>
+                                    <option>France</option>
+                                    <option>Switzerland</option>
+                                    <option>Kuwit</option>
+                                    <option>Egypt</option>
+                                    <option>Kuwit</option>
+                                    <option>Saudi Arabia</option>
+                                    <option>Qatar</option>
+                                </select>
                 </td>
             </tr>
             <tr>

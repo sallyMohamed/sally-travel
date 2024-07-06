@@ -129,13 +129,13 @@ if (isset($_POST['register'])) {
                             <td><input type="text" name="c_passport" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Image*:</td>
+                            <td align="right" id="fixm">Your Image:</td>
                             <td><input id="fixi" type="file" name="c_image" required=""></td>
                         </tr>
                         <tr>
                             <td align="right" id="fixm">Your Country*:</td>
                             <td>
-                            <select name="c_country" required="">Select a*
+                                <select name="c_country" required="">Select a
                                     <option>Egypt</option>
                                     <option>Kuwit</option>
                                     <option>Qatar</option>
@@ -156,15 +156,15 @@ if (isset($_POST['register'])) {
                             </td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your City:*</td>
+                            <td align="right" id="fixm">Your City:</td>
                             <td><input id="fixi" type="text" name="c_city" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Contact:*</td>
+                            <td align="right" id="fixm">Your Contact:</td>
                             <td><input id="fixi" type="text" name="c_contact" required=""></td>
                         </tr>
                         <tr>
-                            <td align="right" id="fixm">Your Address:*</td>
+                            <td align="right" id="fixm">Your Address:</td>
                             <td><input id="fixi" type="text" name="c_address" required=""></td>
                         </tr>
                         <tr align="center">

@@ -15,10 +15,7 @@ include("functions/functions.php");
     <!--Main container starts here-->
     <div class="main_wrapper">
         <!--Header starts here-->
-        <div class="header_wrapper">
-            <a href="../index.php"><img id="logo" src="images/logo.png"></a>
-            <img id="banner" src="images/banner.jpg">
-        </div>
+        
         <!--Header ends here-->
         <!--Navbar starts here-->
         <div class="menubar">
@@ -26,7 +23,8 @@ include("functions/functions.php");
                 <li><a href="../index.php">Home</a></li>
                 <li><a href="../all_packages.php">All Packages</a></li>
                 <li><a href="my_account.php">My Account</a></li>
-                <li><a href="../customer_register.php">Sign Up</a></li>
+            
+                
                 <li><a href="../cart.php">Shopping Cart</a></li>
                 <li><a href="#">Contact Us</a></li>
             </ul>
@@ -109,7 +107,7 @@ include("functions/functions.php");
         </div>
         <!--Content ends here-->
         <div id="footer">
-            <h2 style="text-align: center; padding-top: 30px;">&copy Ashraf Kabir MMXVIII</h2>
+            <h2 style="text-align: center; padding-top: 30px;">sally mohamed</h2>
         </div>
     </div>
     <!--Main container ends here-->

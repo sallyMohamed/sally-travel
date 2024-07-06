@@ -51,7 +51,7 @@ include("functions/functions.php");
                     <span style="float: right;font-size: 18px;padding: 5px;line-height: 40px;">
                         <?php
                         if (isset($_SESSION['customer_email'])) {
-                            echo "<b>Welcome: </b>" . $_SESSION['customer_email'] . "<b style='color: yellow;'> Your</b>";
+                            echo "<b>Welcome: </b><a href='/sally-travel/customer/my_account.php'>" . $_SESSION['customer_email'] . "</a><b style='color: yellow;'> Your</b>";
                         } else {
                             echo "<b>Welcome Guest:</b>";
                         }
