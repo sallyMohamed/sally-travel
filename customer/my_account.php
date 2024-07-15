@@ -7,7 +7,7 @@ include("functions/functions.php");
 
 <head>
     <meta charset="UTF-8">
-    <title>My Online Shop</title>
+    <title>My account</title>
     <link rel="stylesheet" href="styles/style.css" media="all">
 </head>
 

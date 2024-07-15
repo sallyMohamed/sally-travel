@@ -6,6 +6,7 @@
         <li><a href="customer_register.php">Sign Up</a></li>
         <li><a href="cart.php">Shopping Cart</a></li>
         <li><a href="contact.php">Contact Us</a></li>
+        <li><a href="special-order.php">Special Order</a></li>
     </ul>
     <div id="form">
         <form method="get" action="results.php" enctype="multipart/form-data">
